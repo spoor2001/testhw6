@@ -1,4 +1,8 @@
+package src;
+
 import java.util.*;
+
+// added my latest changes
 
 public class MyMiniSearchEngine {
     // default solution. OK to change.
