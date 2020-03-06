@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import static org.junit.Assert.*;
-
+//aaaa
 public class MyMiniSearchEngineTest {
     private List<String> documents() {
         return new ArrayList<String>(

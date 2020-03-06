@@ -3,7 +3,7 @@ package src;
 import java.util.*;
 
 // added my latest changes
-
+// aaaa
 public class MyMiniSearchEngine {
     // default solution. OK to change.
     // do not change the signature of index()
